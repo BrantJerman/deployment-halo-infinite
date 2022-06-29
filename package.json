@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BrantJerman/deployment-halo-infinite/issues"
   },
-  "homepage": "https://github.com/BrantJerman/deployment-halo-infinite#readme"
+  "homepage": "https://github.com/BrantJerman/deployment-halo-infinite#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
