@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/045/151/345/large/martin-deschambault-halo-infinite-the-sequence-forerunner-tower-01-mdeschambault.jpg?1642029143);
+    background-color: #cccccc;
+}
+
+#img1 {
+    max-width: 50%;
+    max-height: 75%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
